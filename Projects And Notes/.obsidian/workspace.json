@@ -13,72 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-10-11.md",
+                "file": "2025-10-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-11"
+              "title": "2025-10-10"
             }
           },
           {
-            "id": "80e8d1507ce229c0",
+            "id": "770a7db6738b4aac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sport/Cycling Climbs bucketlist.md",
+                "file": "2025-10-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cycling Climbs bucketlist"
+              "title": "2025-10-23"
             }
           },
           {
-            "id": "19664a5d9517e936",
+            "id": "c00044b450b2baf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Personal finance desktop app.md",
+                "file": "ContentScripts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personal finance desktop app"
-            }
-          },
-          {
-            "id": "c3f7fb5da424d2c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Content/Ideer og work in progress/Første maraton.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Første maraton"
-            }
-          },
-          {
-            "id": "b1bfd1bee1d7e463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Content/Ideer og work in progress/Første maraton.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Første maraton"
+              "title": "ContentScripts"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Content/Ideer og work in progress/Første maraton.md",
+                "file": "Projects/Content/Ideer og work in progress/GoFinances project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Første maraton"
+              "title": "Backlinks for GoFinances project"
             }
           },
           {
@@ -210,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,44 +196,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "b1bfd1bee1d7e463",
+  "active": "770a7db6738b4aac",
   "lastOpenFiles": [
-    "Investeringsplan.md",
+    "Projects/Content/Ideer og work in progress/Event questions and challenges app.md",
+    "2025-10-23.md",
+    "2025-10-22.md",
+    "ContentScripts.md",
+    "Projects/Content/Ideer og work in progress/GoFinances project.md",
+    "12 Week Year",
+    "Projects/Content/Ideer og work in progress/Intervals desktop app.md",
     "Projects/Content/Ideer og work in progress/Første maraton.md",
+    "Projects/Personal finance desktop app.md",
     "Projects/Ideer.md",
+    "Projects/Content/Content plan.md",
+    "2025-10-10.md",
+    "2025-10-11.md",
+    "Sport/Cycling Climbs bucketlist.md",
+    "2025-10-16.md",
+    "2025-10-19.md",
+    "Investeringsplan.md",
     "Projects/Homelabbing/Resources.md",
     "Projects/Homelabbing",
-    "2025-10-16.md",
-    "Projects/Personal finance desktop app.md",
     "Sport/Mulige Cykelklubber 2026.md",
-    "Projects/Content/Ideer og work in progress/Untitled.md",
     "Sport/Cykeltræning.md",
     "Sport/Styrketræning for cyclister.md",
     "Sport/Træningsudstyr hjemmefitness.md",
-    "Sport/Cycling Climbs bucketlist.md",
     "Sport/Sport gadgets.md",
     "2025-10-15.md",
     "Fede sider og repositories.md",
-    "Projects/Content/Content plan.md",
     "Projects/Content/Ideer og work in progress",
     "Projects/Content/Untitled.md",
     "Projects/Content/Content ideer.md",
-    "2025-10-11.md",
     "Sport",
-    "2025-10-10.md",
     "Bases/ProjectsBase.base",
     "Bases",
-    "Programming Other/Air.md",
-    "Welcome.md",
     "Untitled.canvas",
-    "Projects/Logs/Personal finance desktop app.  dag 1 10-10-25.md",
     "Projects/Logs",
     "Programming Other",
     "Books",
-    "Project1.md",
     "Personal Finance Desktop App",
-    "create a link.md",
-    "Projects/Content",
     "Untitled 1.canvas"
   ]
 }

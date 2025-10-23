@@ -15,12 +15,12 @@ Api
 
 
 Features 
-- [ ] Beregn hvor meget og hvor penge skal hen baseret på procenter eller custom indsat
-- [ ] Gem resultater
-- [ ] mulighed for at lave eksperimentale budgetter
-- [ ] lav opsparings mål, beregning på hvornår man har noget hvis man sparre op til nuværende rate, 
+- [x] Beregn hvor meget og hvor penge skal hen baseret på procenter eller custom indsat
+- [x] Gem resultater
+- [x] mulighed for at lave eksperimentale budgetter
+- [x] lav opsparings mål, beregning på hvornår man har noget hvis man sparre op til nuværende rate, 
 - [ ] predictions - ved brug af opsparingsmål og tidligere data kan man komme med predictions på hvornår man når sit mål, eller hvor meget man kommer til at have opsparet om x antal tid
-- [ ] Dashboard - data summarization største udgifter, samlet incoms predictions og andre grafer maybe?
+- [x] Dashboard - data summarization største udgifter, samlet incoms predictions og andre grafer maybe?
 - [ ] goals - mulighed for at sætte mål som samlet incomst i x tidsperiode eller andet
 
 
